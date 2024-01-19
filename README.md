@@ -90,3 +90,32 @@ PowerBI, Tableau
   Oversaw the NYC Taxi Data Analysis, managing 1.36 billion rows, accounting for 80% of the project's data. Achieved a 20% improvement in data processing efficiency by optimizing ETL with Mage.ai. Enhanced decision-making impact by 30% through interactive Looker dashboards.
 
 *Skills: Web Scraping, Google Cloud Platform (GCP), Object-Oriented Programming (OOP), Data Modeling, Apache Spark, Big Data Analytics, Mage, ETL.*
+
+### Olympic Near Real-Time Pipeline 🏅
+*Aug 2023 - Present*
+
+- 🌐 124 Years of Olympic History: Explore 29 Olympic Games and analyze nearly 300,000 rows of historical data.
+- 📊 Data Analytics Mastery: Showcase expertise in data analytics and PySpark.
+- ☁️ Azure Cloud Skills: Demonstrate proficiency in Azure Cloud services, including Azure Data Factory.
+- 📈 Near Real-Time Insights: A real-time Power BI dashboard offers dynamic reports refreshed every 8 minutes.
+
+*Skills: Microsoft Azure · Microsoft Power BI · Apache Spark · Extract, Transform, Load (ETL)*
+
+### AI-Powered Multi-User E-commerce Platform with Personalized Recommendations 🌐
+
+- Built a secure and user-friendly e-commerce platform with Flask and JWT authentication.
+- Seamless user signup, login, and role-based access control (admin, store manager, user).
+- Streamlined product management for store managers, including creation, editing, and deletion, with category allocation, flexible UTF-8 encoding, and integration with an optional AI-powered product review model for personalized recommendations.
+- Enhanced user engagement and operational efficiency through targeted marketing, automated reminders, and detailed monthly activity reports delivered via email, empowering store managers with valuable data insights.
+
+*Skills: Python · Flask · Javascript · vue.js · Celery · Redis · Machine Learning · SQLite, etc.*
+
+### Retail Data Project 🛍️
+*Apr 2023 - Jul 2023*
+
+- Associated with PW Skills.
+- Built real-time data pipeline with Kafka and Spark Streaming for eCommerce clothing service.
+- Seamless data transfer from Kafka to MySQL for efficient online transaction processing.
+- Transformed OLTP data into OLAP design, stored in S3, and utilized data warehouses for big data analytics and interactive dashboards.
+
+*Skills: Kafka · Spark Streaming · MySQL · Data Warehousing*
