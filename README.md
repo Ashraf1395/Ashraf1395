@@ -61,17 +61,20 @@ Choose the options that best align with your preferred channels for connecting w
 
 ---
 
-### What I Do as a Data Engineer 👨‍💻
-Crafting Robust Data Solutions for Operational Excellence 🚀
+## What I Do as a Data Engineer 👨‍💻
+
+# Crafting Robust Data Solutions for Operational Excellence 🚀
 
 As a seasoned Data Engineer with a passion for innovation, I specialize in developing scalable pipelines and ensuring the seamless flow of data.
 
-**Key Expertise:**
+## **Key Expertise:**
+
 - **Scalable Pipelines:** Designing and optimizing pipelines for efficiency and scalability.
 - **Data Processing:** Expertise in ETL processes, reducing extraction time and data delays.
 - **Data Warehousing:** Designing and optimizing data storage for swift and efficient decision-making.
 
-**Experience Highlights:**
+## **Experience Highlights:**
+
 - Spearheaded data pipeline development, saving 50 hours/week with 30% faster processing.
 - Pioneered ETL processes, reducing extraction time by 40% and data delays by 70%.
 - Led the development of a Flask app for groundwater prediction, improving efficiency by 30%.
@@ -80,26 +83,30 @@ As a seasoned Data Engineer with a passion for innovation, I specialize in devel
 - Demonstrated skills in Web Scraping, GCP, OOP, Data Modeling, Apache Spark, Big Data Analytics, and ETL.
 
 
-**Skills:**
+## **Skills:**
+
 - Programming: Python, SQL, Java, Javascript, Scripting
 - Big Data Frameworks: Spark, Hadoop, Hive, Kafka, Airflow
 - Databases: MySQL, Postgres, MongoDB, Cassandra, Redis
 - Cloud Platforms: Azure, AWS, GCP
 - Dashboarding: PowerBI, Tableau
 
-**Education:**
+## **Education:**
+
 - BS in Data Science & Applications, IIT Madras (Sept 2021 - Present)
 
-**Projects:**
+## **Projects:**
+
 - NYC Taxi Big Data Project with GCP
 - Olympic Near Real-Time Pipeline
 - AI-Powered Multi-User E-commerce Platform with Personalized Recommendations
 - Retail Data Project
 
-**Certifications:**
+## **Certifications:**
 - Microsoft Azure Data Engineer Associate Certified (Sept 2023)
 
-**Achievements:**
+## **Achievements:**
+
 - Authored a research paper on groundwater potential zones at BHU.
 - NYC Taxi Big Data Project: Managed 1.36 billion rows, achieving a 20% improvement in data processing efficiency.
 
