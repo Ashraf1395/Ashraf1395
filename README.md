@@ -53,7 +53,7 @@ I’m not just a data guru; I’m your partner in building a data-driven future.
 Ready to turn your data deluge into a real-time advantage? Let’s get connected!
 
 - **Schedule a Free Consultation:** Coming Soon
-- **Connect on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ashraf1395)
+- **Connect on LinkedIn:** [LinkedIn](https://linkedin.com/in/ashraf1395)
 - **Follow me on Twitter:** Coming Soon
 
 Choose the options that best align with your preferred channels for connecting with me.
