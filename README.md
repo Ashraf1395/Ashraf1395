@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ashraf1395)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:1395ashraf@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Call%20Me-lightgrey)](tel:+919651955586)
+
 
 ## What I Do as a Consultant 🕵️‍♂️
 
@@ -52,14 +52,15 @@ I’m not just a data guru; I’m your partner in building a data-driven future.
 
 Ready to turn your data deluge into a real-time advantage? Let’s get connected!
 
-- **Schedule a Free Consultation:** [Link to your booking calendar or contact form]
-- **Connect on LinkedIn:** [Link to your LinkedIn profile]
-- **Follow me on Twitter:** [Link to your Twitter profile]
+- **Schedule a Free Consultation:** Coming Soon
+- **Connect on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ashraf1395)
+- **Follow me on Twitter:** Coming Soon
 
 Choose the options that best align with your preferred channels for connecting with me.
 
 
 ---
+
 
 ## What I Do as a Data Engineer 👨‍💻
 
