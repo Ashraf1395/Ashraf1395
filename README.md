@@ -1,9 +1,14 @@
 # Mohammad ASHRAF - Data Engineer 👨‍💻
-
+<!---<p align="left"> <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/323439461_1238288157096108_4328968800677934069_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=T_DvrXEST6MAX9g973g&tn=BXxZ4y3Xngd112_2&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCyiGaTR0Svhaj09c53RLx-DrTScGTawXvipJPs4sjPTQ&oe=63DB9C79" alt="bhowmick.joydip" /> </p>--->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ashraf1395)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:1395ashraf@gmail.com)
 
+<h1 align="center">My Stats So Far  :smiley:</h1>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf1395&" alt="joyfreaky" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf1395&size_weight=0.25&count_weight=0.75)
+
+![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf1395&hide=contribs,prs&show_icons=true)
 ## What I Do as a Consultant 🕵️‍♂️
 
 # Bringing Real-Time Intelligence to Your Business 🚀
