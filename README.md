@@ -1,5 +1,6 @@
 # Mohammad ASHRAF - Data Engineer 👨‍💻
-<!---<p align="left"> <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/323439461_1238288157096108_4328968800677934069_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=T_DvrXEST6MAX9g973g&tn=BXxZ4y3Xngd112_2&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCyiGaTR0Svhaj09c53RLx-DrTScGTawXvipJPs4sjPTQ&oe=63DB9C79" alt="bhowmick.joydip" /> </p>--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraf1395&label=Profile%20views&color=0e75b6&style=flat" alt="joyfreaky" /> </p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ashraf1395)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:1395ashraf@gmail.com)
 
