@@ -24,8 +24,6 @@ Ready to turn your data deluge into a real-time advantage? Let’s get connected
 
 Choose the options that best align with your preferred channels for connecting with me.
 
----
-
 **Let’s collaborate to build data solutions that drive business success!** 🌐💻
 
 ## What I do as a Data Engineer 🚀
@@ -89,6 +87,8 @@ As a seasoned Data Engineer with a passion for innovation, I specialize in devel
 - National-level Smart India Hackathon Winner for Building a Cloud Burst Predictor. (Sept 2023) 
 - Authored a research paper on groundwater potential zones, demonstrating analytical skills. (Sept 2023)
 - Achieved 7th Rank in Ineuron Big Data Masters 2.0 Bootcamp out of 600+ talented professionals. (April 2023)
+
+---
 
 **Let’s collaborate to build real-time data solutions that drive business success!** 🌐💻
 
