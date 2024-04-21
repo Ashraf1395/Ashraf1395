@@ -12,18 +12,6 @@
 
 ![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf1395&hide=contribs,prs&show_icons=true)
 
-## Collaborative Approach
-
-But more than technology, I excel at collaboration and communication. I work closely with your team to understand your unique needs and translate them into actionable data strategies.
-
-Ready to turn your data deluge into a real-time advantage? Let’s get connected!
-
-- **Schedule a Free Consultation:** Coming Soon
-- **Connect on LinkedIn:** [LinkedIn](https://linkedin.com/in/ashraf1395)
-- **Follow me on Twitter:** Coming Soon
-
-Choose the options that best align with your preferred channels for connecting with me.
-
 **Let’s collaborate to build data solutions that drive business success!** 🌐💻
 
 ## What I do as a Data Engineer 🚀
