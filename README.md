@@ -54,20 +54,28 @@ As a seasoned Data Engineer with a passion for innovation, I specialize in devel
 
 ## **Projects:**
 
-- NYC Taxi Big Data Project with GCP
-- Olympic Near Real-Time Pipeline
-- AI-Powered Multi-User E-commerce Platform with Personalized Recommendations
-- Retail Data Project
+**Client Projects**
+-  [Real-time Supply Chain Analytics](www.github.com/Ashraf1395/supply_chain_analytics)
+-  [Customer Retention Analytics](www.github.com/Ashraf1395/customer_retention_analytics)
 
+**Personal Projects**
+-  [Olympic Near Real-Time Pipeline](www.github.com/Ashraf1395/customer_retention_analytics)
+-  [Real-time Monitoring Dezoomcamp](www.github.com/Ashraf1395/real-time_monitoring_dezoocamp)
+-  [Malaysian Coffe Analytics](www.github.com/Ashraf1395/)
+-  [Formula One Analytics]
+-  [Gids Project]
+-  Retail Data Project
+-  [NYC Data Project]
+-  
 ### **Education:**
 
 - Bachelor of Science in Data Science & Applications, IIT Madras (Sept 2021 - Present)
 
 ### **Certifications:**
 
-- Datatalksclub Data Engineering Zoomcamp (April 2024)
-- Microsoft Azure Data Engineer Associate Certified (Sept 2023)
-- Ineuron Big Data Masters 2.0 Bootcamp (April 2023)
+- Datatalksclub Data Engineering Zoomcamp (April 2024) [Show Credential](https://certificate.datatalks.club/dezoomcamp/2024/3f3d9bce21bf8adb8d3238aa00ba3349e5f2e174.pdf)
+- Microsoft Azure Data Engineer Associate Certified (Sept 2023) [Show Credential](https://learn.microsoft.com/api/credentials/share/en-us/MohdAshraf-5278/5A10B39357F305B5?sharingId=7CB0F805CBFF6954)
+- Ineuron Big Data Masters 2.0 Bootcamp (April 2023) [Show Credential](https://learn.ineuron.ai/certificate/12796082-51c8-476b-8cc7-1f63b839ed60)
 
 ### **Achievements:**
 
