@@ -55,18 +55,21 @@ As a seasoned Data Engineer with a passion for innovation, I specialize in devel
 ## **Projects:**
 
 **Client Projects**
--  [Real-time Supply Chain Analytics](www.github.com/Ashraf1395/supply_chain_analytics)
--  [Customer Retention Analytics](www.github.com/Ashraf1395/customer_retention_analytics)
+-  [Real-time Supply Chain Analytics](https://github.com/Ashraf1395/supply_chain_finance)
+-  [Customer Retention Analytics](https://github.com/Ashraf1395/customer_retention_analytics)
+-  [Coffee Sales Analytics](www.github.com/Ashraf1395/coffee_production_sales_analytics)
 
 **Personal Projects**
--  [Olympic Near Real-Time Pipeline](www.github.com/Ashraf1395/customer_retention_analytics)
--  [Real-time Monitoring Dezoomcamp](www.github.com/Ashraf1395/real-time_monitoring_dezoocamp)
--  [Malaysian Coffe Analytics](www.github.com/Ashraf1395/)
+-  [Olympic Near Real-Time Pipeline](https://github.com/Ashraf1395/olympic_data_project)
+-  [Real-time Monitoring Dezoomcamp](https://github.com/Ashraf1395/real-time_analytics_dezoomcamp)
 -  [Formula One Analytics]
--  [Gids Project]
--  Retail Data Project
--  [NYC Data Project]
--  
+-  [Real Time Monitoring World Human Emotions](https://github.com/Ashraf1395/realtime_monitoring_world_humans_emotions)
+-  [Retail Data Project](https://github.com/Ashraf1395/retail-data-project)
+-  [Ecommerce Sales Anaytics](https://github.com/Ashraf1395/ecommerce_sales_analytics_aws)
+-  [NYC Data Project](https://github.com/Ashraf1395/nyc-taxi-complete-data-project)
+-  [Rising Clickhouse Kafa](https://github.com/Ashraf1395/rising_wave_clickhouse_kafka)
+-  [Spark Streaming](https://github.com/Ashraf1395/Pipeline_using_spark_streaming)
+  
 ### **Education:**
 
 - Bachelor of Science in Data Science & Applications, IIT Madras (Sept 2021 - Present)
