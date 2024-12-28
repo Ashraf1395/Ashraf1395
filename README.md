@@ -72,7 +72,7 @@ As a seasoned Data Engineer with a passion for innovation, I specialize in devel
   
 ### **Education:**
 
-- Bachelor of Science in Data Science & Applications, IIT Madras (Sept 2021 - Present)
+- Bachelor of Science in Data Science & Applications, IIT Madras
 
 ### **Certifications:**
 
