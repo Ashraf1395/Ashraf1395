@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf1395&size_weight=0.25&count_weight=0.75)
 
-![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf1395&commits_year=2021&show_icons=true)
+![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf1395&commits_year=2024&show_icons=true)
 
 
 **Let’s collaborate to build data solutions that drive business success!** 🌐💻
