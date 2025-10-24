@@ -7,10 +7,14 @@
 
 <h1 align="center">My Stats So Far  :smiley:</h1>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf1395&" alt="joyfreaky" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf-mohammad1_citrix&" alt="joyfreaky2" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf-mohammad1_citrix&" alt="joyfreaky2" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf1395&size_weight=0.25&count_weight=0.75)
 
 ![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf1395&hide=contribs,prs&show_icons=true)
+
+![Ashraf's GitHub stats 2 ](https://github-readme-stats.vercel.app/api?username=ashraf-mohammad1_citrix&hide=contribs,prs&show_icons=true)
 
 **Let’s collaborate to build data solutions that drive business success!** 🌐💻
 
